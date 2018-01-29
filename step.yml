@@ -5,3 +5,4 @@ keywords:
 properties:
   name:
     type: string
+    required: true
