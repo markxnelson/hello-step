@@ -3,6 +3,6 @@ version: 0.1.0
 keywords:
   - hello
 properties:
-  name:
+  myname:
     type: string
     required: true
